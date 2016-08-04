@@ -1,0 +1,9 @@
+C:\MyApplication\Console\WSACancelPOs\bin\Debug\WSACancelPOs.exe.config
+C:\MyApplication\Console\WSACancelPOs\bin\Debug\WSACancelPOs.exe
+C:\MyApplication\Console\WSACancelPOs\bin\Debug\WSACancelPOs.pdb
+C:\MyApplication\Console\WSACancelPOs\obj\Debug\WSACancelPOs.csprojResolveAssemblyReference.cache
+C:\MyApplication\Console\WSACancelPOs\obj\Debug\WSACancelPOs.exe
+C:\MyApplication\Console\WSACancelPOs\obj\Debug\WSACancelPOs.pdb
+C:\MyApplication\Console\IstaNoteList\bin\Debug\WSACancelPOs.exe.config
+C:\MyApplication\Console\IstaNoteList\obj\Debug\WSACancelPOs.exe
+C:\MyApplication\Console\IstaNoteList\obj\Debug\WSACancelPOs.pdb

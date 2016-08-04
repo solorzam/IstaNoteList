@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="https://services.ista-billing.com/api" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="https://services.ista-billing.com/api" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="https://services.ista-billing.com/api">
+      <s:element name="Create">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="accountNo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="noteStatus" type="tns:NoteStatusOptions" />
+            <s:element minOccurs="1" maxOccurs="1" name="notePriority" type="tns:NotePriorityOptions" />
+            <s:element minOccurs="1" maxOccurs="1" name="noteTypeID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="noteTypeDetailId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="noteDepartmentId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="openByUserId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="callBegin" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="callEnd" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="closeDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="callType" type="tns:NoteCallTypeOptions" />
+            <s:element minOccurs="0" maxOccurs="1" name="noteText" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="NoteStatusOptions">
+        <s:restriction base="s:string">
+          <s:enumeration value="Open" />
+          <s:enumeration value="Closed" />
+          <s:enumeration value="Pending" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="NotePriorityOptions">
+        <s:restriction base="s:string">
+          <s:enumeration value="Low" />
+          <s:enumeration value="Medium" />
+          <s:enumeration value="High" />
+          <s:enumeration value="Term" />
+          <s:enumeration value="Final" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="NoteCallTypeOptions">
+        <s:restriction base="s:string">
+          <s:enumeration value="Inbound" />
+          <s:enumeration value="Outbound" />
+          <s:enumeration value="NoCall" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="CreateResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="List">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="customerId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="accountNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListResult" type="tns:ArrayOfNoteDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfNoteDTO">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="NoteDTO" nillable="true" type="tns:NoteDTO" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="NoteDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="NoteId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CustomerId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Priority" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Department" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NoteType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NoteTypeDetail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CallType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Description" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CallBegin" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="CallEnd" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="CallClosed" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Details" type="tns:ArrayOfNoteDetailDTO" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfNoteDetailDTO">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="NoteDetailDTO" nillable="true" type="tns:NoteDetailDTO" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="NoteDetailDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="NoteDetailId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="UserId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NoteDetailText" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CreateSoapIn">
+    <wsdl:part name="parameters" element="tns:Create" />
+  </wsdl:message>
+  <wsdl:message name="CreateSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListSoapIn">
+    <wsdl:part name="parameters" element="tns:List" />
+  </wsdl:message>
+  <wsdl:message name="ListSoapOut">
+    <wsdl:part name="parameters" element="tns:ListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="NoteSoap">
+    <wsdl:operation name="Create">
+      <wsdl:input message="tns:CreateSoapIn" />
+      <wsdl:output message="tns:CreateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="List">
+      <wsdl:input message="tns:ListSoapIn" />
+      <wsdl:output message="tns:ListSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NoteSoap" type="tns:NoteSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Create">
+      <soap:operation soapAction="https://services.ista-billing.com/api/Create" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="List">
+      <soap:operation soapAction="https://services.ista-billing.com/api/List" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="NoteSoap12" type="tns:NoteSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Create">
+      <soap12:operation soapAction="https://services.ista-billing.com/api/Create" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="List">
+      <soap12:operation soapAction="https://services.ista-billing.com/api/List" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Note">
+    <wsdl:port name="NoteSoap" binding="tns:NoteSoap">
+      <soap:address location="https://ws.streamenergybilling.com/api/Note.asmx" />
+    </wsdl:port>
+    <wsdl:port name="NoteSoap12" binding="tns:NoteSoap12">
+      <soap12:address location="https://ws.streamenergybilling.com/api/Note.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

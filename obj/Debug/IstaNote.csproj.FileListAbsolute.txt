@@ -1,0 +1,5 @@
+C:\MyApplication\Console\IstaNoteList\bin\Debug\IstaNoteClient.exe.config
+C:\MyApplication\Console\IstaNoteList\bin\Debug\IstaNoteClient.exe
+C:\MyApplication\Console\IstaNoteList\bin\Debug\IstaNoteClient.pdb
+C:\MyApplication\Console\IstaNoteList\obj\Debug\IstaNoteClient.exe
+C:\MyApplication\Console\IstaNoteList\obj\Debug\IstaNoteClient.pdb

@@ -1,0 +1,87 @@
+2016/08/01-14:56:34.064 14a0 Delete type=3 #1
+2016/08/01-14:56:41.567 2a7c Level-0 table #5: started
+2016/08/01-14:56:41.737 2a7c Level-0 table #5: 4048270 bytes OK
+2016/08/01-14:56:41.739 2a7c Delete type=0 #3
+2016/08/01-14:56:42.015 2a7c Level-0 table #7: started
+2016/08/01-14:56:42.054 2a7c Level-0 table #7: 3766579 bytes OK
+2016/08/01-14:56:42.056 2a7c Delete type=0 #4
+2016/08/01-14:56:42.462 2a7c Level-0 table #9: started
+2016/08/01-14:56:42.561 2a7c Level-0 table #9: 4108363 bytes OK
+2016/08/01-14:56:42.564 2a7c Delete type=0 #6
+2016/08/01-14:56:42.863 2a7c Level-0 table #11: started
+2016/08/01-14:56:42.918 2a7c Level-0 table #11: 4461410 bytes OK
+2016/08/01-14:56:42.922 2a7c Delete type=0 #8
+2016/08/01-14:56:43.168 2a7c Level-0 table #13: started
+2016/08/01-14:56:43.217 2a7c Level-0 table #13: 4033164 bytes OK
+2016/08/01-14:56:43.220 2a7c Delete type=0 #10
+2016/08/01-14:56:43.366 2a7c Level-0 table #15: started
+2016/08/01-14:56:43.421 2a7c Level-0 table #15: 4202953 bytes OK
+2016/08/01-14:56:43.423 2a7c Delete type=0 #12
+2016/08/01-14:56:43.424 2a7c Compacting 4@0 + 1@1 files
+2016/08/01-14:56:43.451 2a7c Generated table #16: 5596 keys, 2157270 bytes
+2016/08/01-14:56:43.476 2a7c Generated table #17: 3986 keys, 2172169 bytes
+2016/08/01-14:56:43.518 2a7c Generated table #18: 4580 keys, 2167750 bytes
+2016/08/01-14:56:43.550 2a7c Generated table #19: 3191 keys, 2171494 bytes
+2016/08/01-14:56:43.593 2a7c Generated table #20: 3109 keys, 2165755 bytes
+2016/08/01-14:56:43.623 2a7c Generated table #21: 2758 keys, 2182008 bytes
+2016/08/01-14:56:43.643 2a7c Level-0 table #24: started
+2016/08/01-14:56:43.679 2a7c Level-0 table #24: 3811077 bytes OK
+2016/08/01-14:56:43.682 2a7c Delete type=0 #14
+2016/08/01-14:56:43.715 2a7c Generated table #23: 2757 keys, 2176598 bytes
+2016/08/01-14:56:43.746 2a7c Generated table #25: 2565 keys, 2179517 bytes
+2016/08/01-14:56:43.771 2a7c Generated table #26: 3135 keys, 2163366 bytes
+2016/08/01-14:56:43.788 2a7c Generated table #27: 1323 keys, 1008291 bytes
+2016/08/01-14:56:43.788 2a7c Compacted 4@0 + 1@1 files => 20544218 bytes
+2016/08/01-14:56:43.790 2a7c Delete type=2 #7
+2016/08/01-14:56:43.791 2a7c Delete type=2 #9
+2016/08/01-14:56:43.792 2a7c Delete type=2 #11
+2016/08/01-14:56:43.793 2a7c Delete type=2 #13
+2016/08/01-14:56:43.794 2a7c Delete type=2 #15
+2016/08/01-14:56:43.795 2a7c compacted to: files[ 1 10 1 0 0 0 0 ]
+2016/08/01-14:56:43.795 2a7c Expanding@1 1+1 to 10+1
+2016/08/01-14:56:43.795 2a7c Compacting 10@1 + 1@2 files
+2016/08/01-14:56:43.828 2a7c Generated table #28: 5229 keys, 2168642 bytes
+2016/08/01-14:56:43.857 2a7c Generated table #29: 5018 keys, 2159894 bytes
+2016/08/01-14:56:43.890 2a7c Generated table #30: 4369 keys, 2165308 bytes
+2016/08/01-14:56:43.923 2a7c Generated table #31: 4357 keys, 2165648 bytes
+2016/08/01-14:56:43.962 2a7c Generated table #32: 2548 keys, 2179440 bytes
+2016/08/01-14:56:44.001 2a7c Generated table #33: 3363 keys, 2159178 bytes
+2016/08/01-14:56:44.058 2a7c Generated table #34: 3097 keys, 2174290 bytes
+2016/08/01-14:56:44.095 2a7c Generated table #35: 2735 keys, 2181187 bytes
+2016/08/01-14:56:44.146 2a7c Generated table #36: 2782 keys, 2175718 bytes
+2016/08/01-14:56:44.257 2a7c Generated table #37: 2493 keys, 2183985 bytes
+2016/08/01-14:56:44.295 2a7c Generated table #38: 3181 keys, 2160322 bytes
+2016/08/01-14:56:44.332 2a7c Generated table #39: 920 keys, 685526 bytes
+2016/08/01-14:56:44.332 2a7c Compacted 10@1 + 1@2 files => 24559138 bytes
+2016/08/01-14:56:44.334 2a7c Delete type=2 #5
+2016/08/01-14:56:44.335 2a7c Delete type=2 #16
+2016/08/01-14:56:44.336 2a7c Delete type=2 #17
+2016/08/01-14:56:44.336 2a7c Delete type=2 #18
+2016/08/01-14:56:44.337 2a7c Delete type=2 #19
+2016/08/01-14:56:44.338 2a7c Delete type=2 #20
+2016/08/01-14:56:44.338 2a7c Delete type=2 #21
+2016/08/01-14:56:44.339 2a7c Delete type=2 #23
+2016/08/01-14:56:44.339 2a7c Delete type=2 #25
+2016/08/01-14:56:44.340 2a7c Delete type=2 #26
+2016/08/01-14:56:44.341 2a7c Delete type=2 #27
+2016/08/01-14:56:44.341 2a7c compacted to: files[ 1 0 12 0 0 0 0 ]
+2016/08/01-14:57:33.052 2a7c Compacting 1@0 + 0@1 files
+2016/08/01-14:57:33.066 2a7c Generated table #40: 2426 keys, 1030705 bytes
+2016/08/01-14:57:33.091 2a7c Generated table #41: 3001 keys, 2166248 bytes
+2016/08/01-14:57:33.100 2a7c Generated table #42: 573 keys, 614170 bytes
+2016/08/01-14:57:33.100 2a7c Compacted 1@0 + 0@1 files => 3811123 bytes
+2016/08/01-14:57:33.101 2a7c Delete type=2 #24
+2016/08/01-14:57:33.102 2a7c compacted to: files[ 0 3 12 0 0 0 0 ]
+2016/08/01-14:57:33.974 2a7c Compacting 1@1 + 4@2 files
+2016/08/01-14:57:33.999 2a7c Generated table #43: 5252 keys, 2169363 bytes
+2016/08/01-14:57:34.023 2a7c Generated table #44: 5014 keys, 2160224 bytes
+2016/08/01-14:57:34.054 2a7c Generated table #45: 4366 keys, 2165214 bytes
+2016/08/01-14:57:34.083 2a7c Generated table #46: 4821 keys, 2159810 bytes
+2016/08/01-14:57:34.098 2a7c Generated table #47: 1946 keys, 1029563 bytes
+2016/08/01-14:57:34.098 2a7c Compacted 1@1 + 4@2 files => 9684174 bytes
+2016/08/01-14:57:34.102 2a7c Delete type=2 #28
+2016/08/01-14:57:34.102 2a7c Delete type=2 #29
+2016/08/01-14:57:34.103 2a7c Delete type=2 #30
+2016/08/01-14:57:34.104 2a7c Delete type=2 #31
+2016/08/01-14:57:34.104 2a7c Delete type=2 #40
+2016/08/01-14:57:34.105 2a7c compacted to: files[ 0 2 13 0 0 0 0 ]

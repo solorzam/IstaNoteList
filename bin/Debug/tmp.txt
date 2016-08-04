@@ -1,0 +1,672 @@
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1466136" target="_blank">[View]</a>
+650_02 (RMCL) Reconnect Complete Received
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  7/8/2016 
+Creation Time:  9:22 AM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer paid past due 
+
+Charles Payne accessed account '4001467578'
+401.38
+
+NAME- Jacobo Ramirez, owner
+REASONS- Pay
+
+ACTIONS TAKEN- Explained bal is 401.38, cust decided to pay $200, aware 2.95 fee,  
+
+
+Payment in the amount of 200.00 was accepted and has been posted to the customer's account. 
+Authorization Code: 123456 
+Transaction Id: 577F97B1365198759C5D03271054D1CE62E35370 
+Customer Reference Id: 603653 
+Transaction Message: This transaction has been approved
+
+
+Sent payment release;
+
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date: 	7/8/2016	
+Creation Time: 	8:12 AM	
+Service Location Number: 	182374758	
+AGLC Customer Number: 	225298970	
+AGLC Account Number: 	9149548730	
+Marketer Reference Data: 	customer paid the past due	
+
+
+
+Aware we can only process payments , trnasfer to commercial due he has more questions
+
+
+
+
+
+NAME- Jacobo Ramirez, owner
+REASONS- Pay
+ACTIONS TAKEN- Explained bal is 401.38, cust decided to pay $200, aware 2.95 fee,  
+
+Payment in the amount of 200.00 was accepted and has been posted to the customer's account. 
+Authorization Code: 123456 
+Transaction Id: 577F97B1365198759C5D03271054D1CE62E35370 
+Customer Reference Id: 603653 
+Transaction Message: This transaction has been approved
+
+
+
+Manuel Ojeda Quintana accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1448646" target="_blank">[View]</a>
+650_02 (RMCL) Reconnect Complete Received
+
+Business Name:  EL GALLO MEXICAN RESTAURANT  
+Premise:  821 KING-GEORGE BOULEVARD SUITE 3 SAVANNAH GA 31419  
+Acct #:  9149548730  
+Marketer:  STREAM ENERGY  
+Premise Type / Rate Code:  311 - Small Commercial - Regular  
+Service Area:  SAVAN - Savannah  
+Acct Status:  Active - Gas  
+  
+ACN:  N  
+Design Day (MCFs):  1.450  
+Design Day (Dekatherms):  1.486  
+Customer since:  2013  
+Account since:  2013  
+  
+Premise #:  182374758  
+Customer #:  225298970  
+NMGL:  None  
+Meter #:  3421952  
+Meter Status:  On  
+ 
+ 
+
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  6/20/2016 
+Creation Time:  3:25 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer paid balance. 
+
+Herman Bonilla accessed account '4001467578'
+Transfer to commercial
+Hector Lozano Baca accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1437907" target="_blank">[View]</a>
+650_02 (RMCL) Reconnect Complete Received
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  6/1/2016 
+Creation Time:  4:10 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer made arrangements  
+
+Customer Reference Id: 583562
+Charles Payne accessed account '4001467578'
+Acct updated per the Commercial Compensation Plan changes of Ignition 2016
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Narmada Chalasani accessed account '4001467578'
+David Christensen accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1427375" target="_blank">[View]</a>
+Gary Griffin accessed account '4001467578'
+650_02 (RMCL) Reconnect Complete Received
+Gary Griffin accessed account '4001467578'
+offered renewal 49.8 for 12 mos and  24 for 47.8
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  5/12/2016 
+Creation Time:  3:43 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer made arrangements  
+
+Customer Reference Id: 573395
+Charles Payne accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Charles Payne accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Laura Janco accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+sent email to customer regarding past due balance.
+per email response customer to pay on 05/06
+Gary Griffin accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1417167" target="_blank">[View]</a>
+Gary Griffin accessed account '4001467578'
+650_02 (RMCL) Reconnect Complete Received
+Collections Release / PAID Request 
+
+
+Standard Account Data 
+
+
+Business Name:  EL GALLO MEXICAN RESTAURANT  
+Premise:  821 KING-GEORGE BOULEVARD SUITE 3 SAVANNAH GA 31419  
+Acct #:  9149548730  
+Marketer:  STREAM ENERGY  
+Premise Type / Rate Code:  311 - Small Commercial - Regular  
+Service Area:  SAVAN - Savannah  
+Acct Status:  Active - Gas  
+  
+ACN:  N  
+Design Day (MCFs):  1.450  
+Design Day (Dekatherms):  1.486  
+Customer since:  2013  
+Account since:  2013  
+  
+Premise #:  182374758  
+Customer #:  225298970  
+NMGL:  None  
+Meter #:  3309296  
+Meter Status:  On  
+ 
+ 
+
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  4/26/2016 
+Creation Time:  9:14 AM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  CUSTOMER MADE ARRANGMENTS 
+
+Customer will split up payments 1 today for $373.14 one Friday 4/29 for $373.14 and one Monday 5/2 for $373.14.
+Jennifer Milchanowski accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Removed PTP due to email from Gary stating customer had been notified on past due amount. 
+Charles Payne accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Alejandro Gonzalez accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+emailed customer.. I have not seen the payment of $712.85  as promised on 04/12
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+there was no answer on the phone so I sent an email to: 'angelvega38@gmail.com' listed on account. regarding the past due balance on this account.
+spoke with Rene said he would pay $712.85 on 04/12
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Jay Walker accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Jay Walker accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Jay Walker accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Jay Walker accessed account '4001467578'
+Maritza Belmonte accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1317938" target="_blank">[View]</a>
+Herman Bonilla accessed account '4001467578'
+650_02 (RMCL) Reconnect Complete Received
+
+Standard Account Data 
+
+
+Business Name:  EL GALLO MEXICAN RESTAURANT  
+Premise:  821 KING-GEORGE BOULEVARD SUITE 3 SAVANNAH GA 31419  
+Acct #:  9149548730  
+Marketer:  STREAM ENERGY  
+Premise Type / Rate Code:  311 - Small Commercial - Regular  
+Service Area:  SAVAN - Savannah  
+Acct Status:  Active - Gas  
+  
+ACN:  N  
+Design Day (MCFs):  1.450  
+Design Day (Dekatherms):  1.486  
+Customer since:  2013  
+Account since:  2013  
+  
+Premise #:  182374758  
+Customer #:  225298970  
+NMGL:  None  
+Meter #:  3309296  
+Meter Status:  On  
+ 
+ 
+
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  12/14/2015 
+Creation Time:  12:19 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer paid balance. 
+
+Herman Bonilla accessed account '4001467578'
+Herman Bonilla accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+James Stoker accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1297175" target="_blank">[View]</a>
+Sean Garrity accessed account '4001467578'
+650_02 (RMCL) Reconnect Complete Received
+Jocobo Ramirez states he will pay $321.38
+Monday 11/16/15.
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  11/9/2015 
+Creation Time:  12:07 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  Customer made payment 
+Jocobo Ramirez (owner) paid $277.31 + $2.95 fee with check
+
+Payment was accepted
+Payment in the amount of 277.31 was accepted and has been posted to the customer's account. 
+Authorization Code: 123456
+Transaction Id: 5640D158782C1A8012BEFDE270C88F76CF255330
+Customer Reference Id: 467334
+Transaction Message: This transaction has been approved
+Done 
+Margaret Velez accessed account '4001467578'
+
+PTP Removed: Customer is responsible for 100% of the SONP letter amount to be reconnected
+Sean Garrity accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1271045" target="_blank">[View]</a>
+James Stoker accessed account '4001467578'
+TR_Renewal_0945_AM
+Renewed with customer, 12 mos at 51.8 cents. 
+Payment in the amount of 418.35 was accepted and has been posted to the customer's account. 
+Authorization Code: 123456
+Transaction Id: 561E684F65A6EBCB7A8B9F70EF77071C825153AF
+Customer Reference Id: 453092
+Charles Payne accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Customer made payment of 420.00 today and will make 418.35 on 10/02/2015. 
+Herman Bonilla accessed account '4001467578'
+Sean Garrity accessed account '4001467578'
+Aurea-Camelot data synchronization (S2.2): Changed Aurea Agent Ref # from 156213 to 382595 on Aug 13 2015  1:32PM
+Aurea-Camelot data synchronization (S2.1): Changed Aurea Agent Ref # from 156213 to 382595 on Aug 13 2015  1:32PM
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1218511" target="_blank">[View]</a>
+James Stoker accessed account '4001467578'
+Gary Griffin accessed account '4001467578'
+James Stoker accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1163022" target="_blank">[View]</a>
+James Stoker accessed account '4001467578'
+650_02 (RMCL) Reconnect Complete Received
+Trent Stephens accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1142132" target="_blank">[View]</a>
+James Stoker accessed account '4001467578'
+Ligeia Scott accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1110285" target="_blank">[View]</a>
+Gary Griffin accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=1057141" target="_blank">[View]</a>
+Jacob Ramirez (owner) states he will call in payment $1045.70
+Monday 2/23/15.
+Margaret Velez accessed account '4001467578'
+Shanna Garcia accessed account '4001467578'
+James Stoker accessed account '4001467578'
+Disconnect Letter letter generated. <a href="/CSR/ViewOnlineRpt.aspx?CategoryCode=L&Key=827915" target="_blank">[View]</a>
+SEP Status updated from 0420 - SONP PENDING to 0410 - SERVICE STARTED on 10/31/2014 09:46:32
+$202.66 of a $202.66 One-Time Payment Automatic Draft payment was applied towards $202.66 on Invoice#: 000000003579968 with an applied date of: 10/31/14 on 10/31/14 at 9:46 am.
+A One-Time Payment Automatic Draft Payment was created in the amount of $202.66 on 10/31/14 at 9:46 am: (Purpose: Unspecified)
+trent.stephens viewed account on 10/31/2014 09:45:35
+Back-end automated collection call sent for invoice 3579968 - Code: BE on 10/31/2014 09:10:41
+An SONP letter has been generated for invoice 3579968 with a Disconnect Date of: 11/03/2014 00:00:00 on 10/19/2014 20:13:02
+Front-end automated collection call sent for invoice 3579968 - Code: FE on 10/10/2014 09:08:46
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 10/09/2014 19:58:13
+10/09/14 at 7:38PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003579968.
+10/09/14 at 7:38PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $202.66 on Invoice #000000003579968.
+Jericobo Ramirez called in to make payment. on 09/29/2014 14:20:06
+SEP Status updated from 0420 - SONP PENDING to 0410 - SERVICE STARTED on 09/29/2014 14:19:27
+$279.21 of a $279.21 One-Time Payment Automatic Draft payment was applied towards $279.21 on Invoice#: 000000003571727 with an applied date of: 09/29/14 on 09/29/14 at 2:19 pm.
+A One-Time Payment Automatic Draft Payment was created in the amount of $279.21 on 09/29/14 at 2:19 pm: (Purpose: Unspecified)
+maritza.belmonte viewed account on 09/29/2014 14:17:08
+james.stoker viewed account on 09/23/2014 10:50:25
+An SONP letter has been generated for invoice 3571727 with a Disconnect Date of: 10/06/2014 00:00:00 on 09/21/2014 20:16:32
+User: TE - API is Activating Contract (Contract ID=2407023/Effective Date: 08/05/14/Start Date: 08/12/14.
+User: TE - API is Expiring Contract (Contract ID=2080900/Effective Date: 12/02/13/Start Date: 12/03/13.
+Contract Product Name: Commercial One Year Fixed Rate was activated on 09/16/14 at 5:08 am by TRX Number: 2286270282 with Service Start Date: 08/12/14.
+09/13/14 at 7:57PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $279.21 on Invoice #000000003571727.
+09/13/14 at 7:57PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003571727.
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 09/10/2014 09:11:29
+Front-end automated collection call sent for invoice 3571727 - Code: FE on 09/10/2014 09:11:29
+$270.18 of a $270.18 One-Time Payment Automatic Draft payment was applied towards $270.18 on Invoice#: 000000003528467 with an applied date of: 08/29/14 on 08/29/14 at 11:23 am.
+SEP Status updated from 0420 - SONP PENDING to 0410 - SERVICE STARTED on 08/29/2014 11:23:37
+A One-Time Payment Automatic Draft Payment was created in the amount of $270.18 on 08/29/14 at 11:23 am: (Purpose: Unspecified)
+margaretv viewed account on 08/29/2014 11:21:43
+Back-end automated collection call sent for invoice 3528467 - Code: BE on 08/29/2014 09:10:39
+An SONP letter has been generated for invoice 3528467 with a Disconnect Date of: 09/02/2014 00:00:00 on 08/17/2014 20:16:09
+Front-end automated collection call sent for invoice 3528467 - Code: FE on 08/11/2014 09:09:24
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 08/08/2014 20:20:39
+08/08/14 at 7:56PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003528467.
+08/08/14 at 7:56PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $270.18 on Invoice #000000003528467.
+carol.kile viewed account on 08/05/2014 12:51:48
+carol.kile viewed account on 08/05/2014 12:14:14
+SEP Status updated from 0440 - SONP REQUESTED to 0410 - SERVICE STARTED on 08/05/2014 12:14:12
+SYSTEM updated SEP status to 0410 for SA Id: 248626 on 08/05/2014
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  8/5/2014 
+Creation Time:  1:13 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  customer made payment 
+ on 08/05/2014 12:14:07
+carol.kile viewed account on 08/05/2014 12:13:08
+Jacobo Ramirez(owner) called in paid $409.92 + $2.95 fee with check. Advised customer $270.18 due
+8/7/14. 
+
+
+Your Collections Release / PAID Transaction has been submitted! 
+Creation Date:  8/5/2014 
+Creation Time:  12:13 PM 
+Service Location Number:  182374758 
+AGLC Customer Number:  225298970 
+AGLC Account Number:  9149548730 
+Marketer Reference Data:  customer made payment 
+ on 08/05/2014 11:15:06
+TR_RENEW_080514_1107am
+Jacobo Ramirez(owner)
+1 yr @ .0578 on 08/05/2014 11:12:01
+margaretv viewed account on 08/05/2014 11:11:30
+Contract Created Successfully - LOA Date:08/05/2014 Offering Code:GAGC1YFR Start Immed:N Waive ETF:N
+margaretv viewed account on 08/05/2014 11:04:55
+$211.22 of a $409.92 One-Time Payment Automatic Draft payment was applied towards $211.22 on Invoice#: 000000003451391 with an applied date of: 08/05/14 on 08/05/14 at 11:04 am.
+A One-Time Payment Automatic Draft Payment was created in the amount of $409.92 on 08/05/14 at 11:04 am: (Purpose: Unspecified)
+$198.70 of a $409.92 One-Time Payment Automatic Draft payment was applied towards $198.70 on Invoice#: 000000003462344 with an applied date of: 08/05/14 on 08/05/14 at 11:04 am.
+margaretv viewed account on 08/05/2014 11:01:54
+warren.wilson viewed account on 08/05/2014 10:23:53
+SEP Status updated from 0430 - SONP QUALIFIED to 0440 - SONP REQUESTED on 08/05/2014 10:23:50
+SYSTEM updated SEP status to 0440 for SA Id: 248626 on 08/05/2014
+Your transaction has been submitted successfully. Please refer to Sender Transaction ID, 2258147369, for future reference. on 08/05/2014 10:23:44
+warren.wilson viewed account on 08/05/2014 10:22:29
+SONP sent for invoice 3462344 - Code: SONP on 08/04/2014 20:13:32
+SEP Status updated from 0420 - SONP PENDING to 0430 - SONP QUALIFIED on 08/04/2014 20:13:26
+SONP sent for invoice 3451391 - Code: SONP on 08/04/2014 20:13:26
+Back-end automated collection call sent for invoice 3462344 - Code: BE on 08/01/2014 09:09:51
+Back-end automated collection call sent for invoice 3451391 - Code: BE on 08/01/2014 09:09:42
+An SONP letter has been generated for invoice 3462344 with a Disconnect Date of: 08/04/2014 00:00:00 on 07/20/2014 20:18:14
+An SONP letter has been generated for invoice 3451391 with a Disconnect Date of: 08/04/2014 00:00:00 on 07/20/2014 20:18:04
+Contract Product Name: Commercial One Month Variable Rate was activated on 07/16/14 at 5:16 am by TRX Number: 2245166175 with Service Start Date: 06/11/14.
+Front-end automated collection call sent for invoice 3462344 - Code: FE on 07/09/2014 09:08:24
+Front-end automated collection call sent for invoice 3451391 - Code: FE on 07/09/2014 09:08:16
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 07/08/2014 20:15:52
+07/08/14 at 7:55PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $409.92 on Invoice #000000003451391.
+07/08/14 at 7:55PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $198.70 on Invoice #000000003462344.
+07/08/14 at 7:55PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003462344.
+07/08/14 at 7:55PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003451391.
+alejandro.gonzalez viewed account on 05/14/2014 09:26:44
+raylyn.freeney viewed account on 05/13/2014 12:35:27
+SEP Status updated from 0440 - SONP REQUESTED to 0410 - SERVICE STARTED on 05/13/2014 12:18:47
+Customer call to make a pymt: Your confirmation number is:   1333793608  
+  
+ on 05/13/2014 09:32:58
+$205.27 of a $400.99 One-Time Payment Automatic Draft payment was applied towards $205.27 on Invoice#: 000000003385175 with an applied date of: 05/13/14 on 05/13/14 at 9:32 am.
+A One-Time Payment Automatic Draft Payment was created in the amount of $400.99 on 05/13/14 at 9:32 am: (Purpose: Unspecified)
+$195.72 of a $400.99 One-Time Payment Automatic Draft payment was applied towards $195.72 on Invoice#: 000000003373607 with an applied date of: 05/13/14 on 05/13/14 at 9:32 am.
+Customer call to pay invoice; Submit reconnect order: 
+Business Name:  EL GALLO MEXICAN RESTAURANT  
+Premise:  821 KING-GEORGE Boulevard SUITE 3 SAVANNAH GA 31419  
+Acct #  9149548730  
+Marketer:  STREAM ENERGY  
+Premise Type / Rate Code:  311 - Small Commercial - Regular  
+Service Area:  SAVAN - Savannah  
+Acct Status:  Active - Gas  
+  
+ACN:  N  
+Design Day (MCFs):  1.748  
+Design Day (Dekatherms):  1.792  
+Customer since:  2013  
+Account since:  2013  
+  
+Customer #  225298970  
+NMGL:  None  
+Meter #  2766120  
+Meter Status:  Off - Locked  
+ERT:  Y  
+ 
+ 
+
+
+Order Details:  
+Requestor Name:  Angelica Abrego 
+Marketer Reference Data:   
+Premise Address: 821 KING-GEORGE Boulevard SUITE 3 SAVANNAH GA 31419 
+
+--------------------------------------------------------------------------------
+ 
+The following order has been issued: 
+Service Order ID:  107502364 
+Order Type:  Reconnect 
+Schedule Date & Time:  5/14/2014 09:00 AM - 05:00 PM (8 hours) 
+Entrance Instructions:  Customer Onsite 
+Gate Code:   
+Intersecting Street:   
+Subdivision:   
+Additional Instructions:  
+ on 05/13/2014 09:31:00
+angelica.abrego viewed account on 05/13/2014 09:27:30
+Front-end automated collection call sent for invoice 3385175 - Code: FE on 05/09/2014 09:08:27
+05/08/14 at 7:47PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $400.99 on Invoice #000000003385175.
+05/08/14 at 7:47PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003385175.
+raylyn.freeney viewed account on 05/08/2014 09:56:46
+SEP Status updated from 0430 - SONP QUALIFIED to 0440 - SONP REQUESTED on 05/08/2014 09:56:44
+raylyn.freeney updated SEP status to 0440 for SA Id: 248626 on 05/08/2014
+ All data posted. 
+
+
+Your transaction has been submitted successfully. Please refer to Sender Transaction ID, 2199785516, for future reference. 
+ 
+ 
+ on 05/08/2014 09:56:41
+raylyn.freeney viewed account on 05/08/2014 09:55:29
+SEP Status updated from 0420 - SONP PENDING to 0430 - SONP QUALIFIED on 05/05/2014 20:24:20
+SONP sent for invoice 3373607 - Code: SONP on 05/05/2014 20:24:20
+Back-end automated collection call sent for invoice 3373607 - Code: BE on 05/02/2014 09:10:31
+30-day End of Term letter sent to customer for Comm 6 Month Fixed Rate expiring on 06/02/2014 00:00:00 by the user INFORMATICA on 04/28/14 at 8:07 pm. 
+An SONP letter has been generated for invoice 3373607 with a Disconnect Date of: 05/05/2014 00:00:00 on 04/20/2014 20:18:00
+04/09/14 at 7:46PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $195.72 on Invoice #000000003373607.
+04/09/14 at 7:46PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003373607.
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 04/09/2014 09:09:49
+Front-end automated collection call sent for invoice 3373607 - Code: FE on 04/09/2014 09:09:48
+60-day End of Term letter sent to customer for Comm 6 Month Fixed Rate expiring on 06/02/2014 00:00:00 by the user INFORMATICA on 03/30/14 at 8:24 pm. 
+$211.94 of a $211.94 One-Time Payment Automatic Draft payment was applied towards $211.94 on Invoice#: 000000003324416 with an applied date of: 03/24/14 on 03/24/14 at 12:17 pm.
+SEP Status updated from 0420 - SONP PENDING to 0410 - SERVICE STARTED on 03/24/2014 12:17:16
+A One-Time Payment Automatic Draft Payment was created in the amount of $211.94 on 03/24/14 at 12:17 pm: (Purpose: Unspecified)
+Hermanb viewed account on 03/24/2014 12:15:29
+pedro.portillo viewed account on 03/24/2014 12:12:06
+An SONP letter has been generated for invoice 3324416 with a Disconnect Date of: 04/04/2014 00:00:00 on 03/19/2014 20:13:13
+03/12/14 at 7:39PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $211.94 on Invoice #000000003324416.
+03/12/14 at 7:39PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003324416.
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 03/11/2014 09:08:54
+Front-end automated collection call sent for invoice 3324416 - Code: FE on 03/11/2014 09:08:54
+03/01/14 at 8:00PM HOURLY_JOB - No Late Fee - Balance is < $30 on Invoice #000000003254611.
+Adv cust of last pymt recevied on acct. on 02/28/2014 12:16:38
+angelica.abrego viewed account on 02/28/2014 12:15:28
+SEP Status updated from 0420 - SONP PENDING to 0410 - SERVICE STARTED on 02/28/2014 12:01:26
+$210.66 of a $233.99 Interactive Voice Response Automatic Draft payment was applied towards $210.66 on Invoice#: 000000003291953 with an applied date of: 02/28/14 on 02/28/14 at 12:01 pm.
+$23.33 of a $233.99 Interactive Voice Response Automatic Draft payment was applied towards $23.33 on Invoice#: 000000003254611 with an applied date of: 02/28/14 on 02/28/14 at 12:01 pm.
+A Interactive Voice Response Automatic Draft Payment was created in the amount of $233.99 on 02/28/14 at 12:01 pm: (Purpose: Unspecified)
+Back-end automated collection call sent for invoice 3291953 - Code: BE on 02/28/2014 09:11:42
+An SONP letter has been generated for invoice 3291953 with a Disconnect Date of: 03/03/2014 00:00:00 on 02/16/2014 20:18:06
+02/08/14 at 7:49PM HOURLY_JOB - Late Fee of $10.00 applied for Past Due Balance of $233.99 on Invoice #000000003291953.
+02/08/14 at 7:49PM HOURLY_JOB - Late Fee assessed - No Protection on Invoice #000000003291953.
+Front-end automated collection call sent for invoice 3291953 - Code: FE on 02/07/2014 09:09:34
+Attempted to schedule an SONP for invoice 3254611 but balance of  $23.33 is less than the SONP threshold of  $50.00 on 02/03/2014 20:00:49
+Attempted to schedule a Back-end automated collection call for invoice 3254611 but balance of  $23.33 is less than the BE threshold of  $50.00 on 01/31/2014 09:11:17
+Attempted to schedule an SONP letter for invoice 3254611 but balance of  $23.33 is less than the letter threshold of  $50.00 on 01/19/2014 20:15:01
+oscar.aranda viewed account on 01/10/2014 16:10:34
+Attempted to schedule a Front-end automated collection call for invoice 3254611 but balance of  $23.33 is less than the FE threshold of  $50.00 on 01/08/2014 09:09:51
+SEP Status updated from 0410 - SERVICE STARTED to 0420 - SONP PENDING on 01/07/2014 20:16:49
+01/07/14 at 7:44PM HOURLY_JOB - No Late Fee - Balance is < $30 on Invoice #000000003254611.
+angela.bewley viewed account on 12/19/2013 17:33:01
+janetw viewed account on 12/19/2013 13:25:09
+Camelot acct N2943724 created for PK S2201570252  on 12/17/2013 11:56:28
+angela.bewley viewed account on 12/17/2013 11:55:35
+suad.hopovac viewed account on 12/13/2013 16:05:23
+suad.hopovac viewed account on 12/13/2013 15:44:21
+Contract Product Name: Comm 6 Month Fixed Rate was activated on 12/13/13 at 5:25 am by TRX Number: 2105187974 with Service Start Date: 12/03/13.
+tommyh viewed account on 12/12/2013 13:29:32
+Created DPI ticket - IGN-24415 General Create N Acct S2201570252 Mexican Restaurant El Gallo - & assign to Allison Watson A2201162 - Band B 2pts on 12/12/2013 12:45:04
+Bradd viewed account on 12/12/2013 12:35:49
+oscar.aranda viewed account on 12/09/2013 11:27:17
+SEP Status updated from 0320 - HUD RECEIVED to 0410 - SERVICE STARTED on 12/06/2013 16:05:13
+User: TE - API is Activating Contract (Contract ID=2080900/Effective Date: 12/02/13/Start Date: 12/03/13.
+jennifer.milchanowski viewed account on 12/03/2013 15:44:04
+oscar.aranda viewed account on 12/03/2013 15:05:12
+Hermanb viewed account on 12/03/2013 14:57:54
+Explain My Bill: Commercial Department: 866-544-0692 Option 3  M-F 9am-5pm EST
+ on 12/03/2013 14:54:08
+guillermo.macharigui viewed account on 12/03/2013 14:53:02
+SEP Status updated from 0199 - ENROLL REQUEST SUBMITTED TO MKT to 0320 - HUD RECEIVED on 12/03/2013 10:36:01
+Hermanb viewed account on 12/03/2013 08:58:26
+SEP Status updated from 0196 - COMMERCIAL TURN-ON REQUEST READY FOR MARKET to 0199 - ENROLL REQUEST SUBMITTED TO MKT on 12/03/2013 08:58:22
+A turn on request was submitted for this customer.  Oscar placed turn on order.
+Hermanb viewed account on 12/03/2013 08:57:14
+tommyh viewed account on 12/03/2013 08:19:15
+Confirm Deposit: Deposit Payment of $271.31 Received with confirmation number 3366238042 for AGL#: 182374758260452912
+SEP Status updated from 0160 - DEPOSIT OR ACH REQUIRED to 0180 - ENROLL REQUEST QUEUED on 12/03/2013 06:04:28
+SEP Status updated from 0180 - ENROLL REQUEST QUEUED to 0196 - COMMERCIAL TURN-ON REQUEST READY FOR MARKET on 12/03/2013 06:04:28
+Order information
+
+
+Customer Name Issued Scheduled / Due Date Account No. CMA Order Type Field Order Code Status Field Order Status Amended Override Field Order No. Requested By 
+EL GALLO MEXICAN RESTAURANT 12/2/2013  12/3/2013 All Day Appointment 9149548730  Turn On Match Scheduled to Work UnAssigned   1182374758702163398_GCMA Oscar Aranda 
+
+
+
+Order Issuance 
+Date/Time Taken: 12/2/2013 4:39:50 PM  
+Requested By: Oscar Aranda 
+Call Back No: 9723670894 
+Resource Area Code: SAVAN-Savannah  
+Entrance Instruction: None 
+Gate Code:  
+Intersecting Street:  
+Subdivision Name:  
+Additional Field Instructions:  
+Medical Equipment: No 
+Taken By: Oscar Aranda 
+Customer Service Remarks: 
+ on 12/02/2013 17:10:15
+oscar.aranda viewed account on 12/02/2013 17:10:08
+oscar.aranda viewed account on 12/02/2013 16:47:09
+oscar.aranda viewed account on 12/02/2013 16:47:08
+oscar.aranda viewed account on 12/02/2013 16:46:58
+oscar.aranda viewed account on 12/02/2013 16:24:39
+oscar.aranda viewed account on 12/02/2013 16:17:35
+SEP Status updated from 0150 - WAITING FOR QC to 0160 - DEPOSIT OR ACH REQUIRED on 12/02/2013 16:17:33
+oscar.aranda viewed account on 12/02/2013 16:17:32
+oscar.aranda viewed account on 12/02/2013 16:17:31
+oscar.aranda viewed account on 12/02/2013 16:17:27
+oscar.aranda viewed account on 12/02/2013 16:16:47
+nikki.napier viewed account on 12/02/2013 16:16:39
+SEP Status updated from 0127 - CREDIT CHECK FAILED to 0150 - WAITING FOR QC on 12/02/2013 16:16:38
+Deposit required
+ commercial score is 8 on 12/02/2013 16:16:38
+nikki.napier viewed account on 12/02/2013 16:15:17
+oscar.aranda viewed account on 12/02/2013 16:12:59
+oscar.aranda viewed account on 12/02/2013 16:12:56
+oscar.aranda viewed account on 12/02/2013 16:11:23
+oscar.aranda viewed account on 12/02/2013 16:08:35
+SEP Status updated from 0120 - WAITING FOR CREDIT CHECK to 0127 - CREDIT CHECK FAILED on 12/02/2013 15:47:33
+oscar.aranda viewed account on 12/02/2013 15:44:05
+SEP added successfully - Old LDC#: 182374758######### Ext Ref#: S2201570252
+Contract Created Successfully - LOA Date:12/02/2013 Offering Code:GAGC6MFR Start Immed:N Waive ETF:N
+QC Waiver Note: TR_NewD_1222013_340
+Response:  Success
+
+Hit Enter=> 
